@@ -12,7 +12,8 @@
 Android Studio를 이용하여 아래 사진과 같이 Application의 GUI를 전반적으로 구현함.  
 **Constraint Layout**을 이용하여 다양한 해상도에서도 깨짐 없이 지원할 수 있게 구현함.
 
-![layout](./GUI/layout.png)  
+![layout1](./1.gif)  
+![layout1](./2.gif)
 
 ## 2. Model
 --------
